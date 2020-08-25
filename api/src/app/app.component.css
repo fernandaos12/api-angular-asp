@@ -1,0 +1,17 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.container {
+    margin-top: 30px;
+}
+
+.adicionar-contato {
+    margin-bottom: 30px;
+}
+
+.listar-contatos {
+    margin-bottom: 50px;
+}
+
+.btn-add-contato {
+    margin-right: 10px;
+}
